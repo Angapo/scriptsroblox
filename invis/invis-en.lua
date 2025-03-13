@@ -1,3 +1,12 @@
+workspace:FindFirstChild('invischair'):Remove()
+            game.StarterGui:SetCore("SendNotification", {
+                Title = "script is connect!!";
+                Duration = 1;
+                Icon = "rbxassetid://88534281036401"
+                Text = "";
+            })
+
+
 local key = Enum.KeyCode.E
 
 --// dont edit script below
