@@ -428,6 +428,26 @@ popAnims = {
         R6 = true;
         Priority = 2; --0, 1, 2, and 1000 are acceptable priorities
     }
+    stockdanceone = {
+        Title = "StockDance One";
+        AnimationId = "rbxassetid://71089364173806";
+        Speed = 1;
+        Time = 0;
+        Weight = 1;
+        Loop = true;
+        R6 = true;
+        Priority = 2; --0, 1, 2, and 1000 are acceptable priorities
+    }
+    cleangroove = {
+        Title = "Clean Groove";
+        AnimationId = "rbxassetid://101037248514823";
+        Speed = 1;
+        Time = 0;
+        Weight = 1;
+        Loop = true;
+        R6 = true;
+        Priority = 2; --0, 1, 2, and 1000 are acceptable priorities
+    }
 }
 robloxOwns = {}
  
